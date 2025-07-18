@@ -1,0 +1,19 @@
+{
+    "name": "testedrive/teste",
+    "description": "Teste-Drive",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app"
+        }
+    },
+    "authors": [
+        {
+            "name": "Habraino de Deus",
+            "email": "habraino12@gmail.com"
+        }
+    ],
+    "require": {
+        "league/plates": "^3.5",
+        "symfony/var-dumper": "^6.3"
+    }
+}
