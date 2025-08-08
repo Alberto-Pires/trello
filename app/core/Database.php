@@ -12,12 +12,12 @@ class Database {
     private $connection;
 
     private function __construct() {
-        // Lê as variáveis de ambiente com fallback
-        $host    = getenv('DB_HOST') ?: 'localhost';
-        $dbname  = getenv('DB_NAME') ?: 'trello';
-        $user    = getenv('DB_USER') ?: 'root';
-        $pass    = getenv('DB_PASS') ?: '';
-        $charset = getenv('DB_CHARSET') ?: 'utf8mb4';
+        // Lê as variáveis de ambiente com suporte a diferentes fontes
+        $host    = $_ENV['DB_HOST'] ?? getenv('DB_HOST') ?: 'localhost';
+        $dbname  = $_ENV['DB_NAME'] ?? getenv('DB_NAME') ?: 'trello';
+        $user    = $_ENV['DB_USER'] ?? getenv('DB_USER') ?: 'root';
+        $pass    = $_ENV['DB_PASS'] ?? getenv('DB_PASS') ?: '';
+        $charset = $_ENV['DB_CHARSET'] ?? getenv('DB_CHARSET') ?: 'utf8mb4';
 
         $dsn = "mysql:host=$host;dbname=$dbname;charset=$charset";
 

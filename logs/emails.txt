@@ -1,0 +1,128 @@
+Erro ao enviar para: carlos9053350@gmail.com
+Erro: SMTP Error: Could not connect to SMTP host. Failed to connect to server SMTP server error: Failed to connect to server SMTP code: 10061 Additional SMTP info: Nenhuma ligação pôde ser feita porque o computador de destino
+as recusou ativamente
+Mensagem: 
+            <h3>Olá Alberto Espirito Santo,</h3>
+            <p>Clique no link abaixo para redefinir sua senha. Este link expirará em 1 hora.</p>
+            <p><a href='http://localhost:8000/redefinir?token=356021b513bc88481bb747a5e85ee21a'>http://localhost:8000/redefinir?token=356021b513bc88481bb747a5e85ee21a</a></p>
+        
+
+Erro ao enviar para: carlos9053350@gmail.com
+Erro: SMTP Error: Could not connect to SMTP host. Failed to connect to server SMTP server error: Failed to connect to server SMTP code: 10061 Additional SMTP info: Nenhuma ligação pôde ser feita porque o computador de destino
+as recusou ativamente
+Mensagem: 
+            <h3>Olá Alberto Espirito Santo,</h3>
+            <p>Clique no link abaixo para redefinir sua senha. Este link expirará em 1 hora.</p>
+            <p><a href='http://localhost:8000/redefinir?token=c2fddde54d5b81b8d08c352f590fb13e'>http://localhost:8000/redefinir?token=c2fddde54d5b81b8d08c352f590fb13e</a></p>
+        
+
+Erro ao enviar para: carlos9053350@gmail.com
+Erro: SMTP Error: Could not connect to SMTP host. Failed to connect to server SMTP server error: Failed to connect to server SMTP code: 10061 Additional SMTP info: Nenhuma ligação pôde ser feita porque o computador de destino
+as recusou ativamente
+Mensagem: 
+            <h3>Olá Alberto Espirito Santo,</h3>
+            <p>Clique no link abaixo para redefinir sua senha. Este link expirará em 1 hora.</p>
+            <p><a href='http://localhost:8000/redefinir?token=6ced7d8ef7e393500f95041847a8fc1c'>http://localhost:8000/redefinir?token=6ced7d8ef7e393500f95041847a8fc1c</a></p>
+        
+
+Erro ao enviar para: carlos9053350@gmail.com
+Erro: SMTP Error: Could not connect to SMTP host. Failed to connect to server SMTP server error: Failed to connect to server SMTP code: 10061 Additional SMTP info: Nenhuma ligação pôde ser feita porque o computador de destino
+as recusou ativamente
+Mensagem: 
+            <h3>Olá Alberto Espirito Santo,</h3>
+            <p>Clique no link abaixo para redefinir sua senha. Este link expirará em 1 hora.</p>
+            <p><a href='http://localhost:8000/redefinir?token=eba24c4fa628de539bb2e6bd994c4c40'>http://localhost:8000/redefinir?token=eba24c4fa628de539bb2e6bd994c4c40</a></p>
+        
+
+Erro ao enviar para: carlos9053350@gmail.com
+Erro: SMTP Error: Could not connect to SMTP host. Failed to connect to server SMTP server error: Failed to connect to server SMTP code: 10061 Additional SMTP info: Nenhuma ligação pôde ser feita porque o computador de destino
+as recusou ativamente
+Mensagem: 
+            <h3>Olá Alberto Espirito Santo,</h3>
+            <p>Clique no link abaixo para redefinir sua senha. Este link expirará em 1 hora.</p>
+            <p><a href='http://localhost:8000/redefinir?token=f829bdb4da6ab309078d8b15a49dc7bf'>http://localhost:8000/redefinir?token=f829bdb4da6ab309078d8b15a49dc7bf</a></p>
+        
+
+Erro ao enviar para: carlos9053350@gmail.com
+Erro: SMTP Error: Could not connect to SMTP host. Failed to connect to server SMTP server error: Failed to connect to server SMTP code: 10061 Additional SMTP info: Nenhuma ligação pôde ser feita porque o computador de destino
+as recusou ativamente
+Mensagem: 
+            <h3>Olá Alberto Espirito Santo,</h3>
+            <p>Clique no link abaixo para redefinir sua senha. Este link expirará em 1 hora.</p>
+            <p><a href='http://localhost:8000/redefinir?token=e60c67e76c1b4041d5ee3c6e673290dd'>http://localhost:8000/redefinir?token=e60c67e76c1b4041d5ee3c6e673290dd</a></p>
+        
+
+Erro ao enviar para: carlos9053350@gmail.com
+Erro: SMTP Error: Could not connect to SMTP host. Failed to connect to server SMTP server error: Failed to connect to server SMTP code: 10061 Additional SMTP info: Nenhuma ligação pôde ser feita porque o computador de destino
+as recusou ativamente
+Mensagem: 
+            <h3>Olá Alberto Espirito Santo,</h3>
+            <p>Clique no link abaixo para redefinir sua senha. Este link expirará em 1 hora.</p>
+            <p><a href='http://localhost:8000/redefinir?token=0e3584197eda1cfd2a05f08e4062abe9'>http://localhost:8000/redefinir?token=0e3584197eda1cfd2a05f08e4062abe9</a></p>
+        
+
+Erro ao enviar para: carlos9053350@gmail.com
+Erro: SMTP Error: Could not connect to SMTP host. Failed to connect to server SMTP server error: Failed to connect to server SMTP code: 10061 Additional SMTP info: Nenhuma ligação pôde ser feita porque o computador de destino
+as recusou ativamente
+Mensagem: 
+            <h3>Olá Alberto Espirito Santo,</h3>
+            <p>Clique no link abaixo para redefinir sua senha. Este link expirará em 1 hora.</p>
+            <p><a href='http://localhost:8000/redefinir?token=26231d94f8568d48385ce872b1826118'>http://localhost:8000/redefinir?token=26231d94f8568d48385ce872b1826118</a></p>
+        
+
+Erro ao enviar para: carlos9053350@gmail.com
+Erro: SMTP Error: Could not authenticate.
+Mensagem: 
+            <h3>Olá Alberto Espirito Santo,</h3>
+            <p>Clique no link abaixo para redefinir sua senha. Este link expirará em 1 hora.</p>
+            <p><a href='http://localhost:8000/redefinir?token=33dcf6dd9c475a33d2a8a12753b63a68'>http://localhost:8000/redefinir?token=33dcf6dd9c475a33d2a8a12753b63a68</a></p>
+        
+
+Erro ao enviar para: carlos9053350@gmail.com
+Erro: SMTP Error: Could not authenticate.
+Mensagem: 
+            <h3>Olá Alberto Espirito Santo,</h3>
+            <p>Clique no link abaixo para redefinir sua senha. Este link expirará em 1 hora.</p>
+            <p><a href='http://localhost:8000/redefinir?token=aa0b08af11c70118a7e21aefd5703edf'>http://localhost:8000/redefinir?token=aa0b08af11c70118a7e21aefd5703edf</a></p>
+        
+
+Erro ao enviar para: carlos9053350@gmail.com
+Erro: SMTP Error: Could not authenticate.
+Mensagem: 
+            <h3>Olá Alberto Espirito Santo,</h3>
+            <p>Clique no link abaixo para redefinir sua senha. Este link expirará em 1 hora.</p>
+            <p><a href='http://localhost:8000/redefinir?token=4cce7c1e4d80d66ee75b206be14f9233'>http://localhost:8000/redefinir?token=4cce7c1e4d80d66ee75b206be14f9233</a></p>
+        
+
+Erro ao enviar para: carlos9053350@gmail.com
+Erro: SMTP Error: Could not authenticate.
+Mensagem: 
+            <h3>Olá Alberto Espirito Santo,</h3>
+            <p>Clique no link abaixo para redefinir sua senha. Este link expirará em 1 hora.</p>
+            <p><a href='http://localhost:8000/redefinir?token=a6bbbae4782fe4acbf5c2fdfd99f2b90'>http://localhost:8000/redefinir?token=a6bbbae4782fe4acbf5c2fdfd99f2b90</a></p>
+        
+
+Erro ao enviar para: carlos9053350@gmail.com
+Erro: SMTP Error: Could not authenticate.
+Mensagem: 
+            <h3>Olá Alberto Espirito Santo,</h3>
+            <p>Clique no link abaixo para redefinir sua senha. Este link expirará em 1 hora.</p>
+            <p><a href='http://localhost:8000/redefinir?token=51321adb4beb8360bc3c228ca089dde0'>http://localhost:8000/redefinir?token=51321adb4beb8360bc3c228ca089dde0</a></p>
+        
+
+Erro ao enviar para: carlos9053350@gmail.com
+Erro: SMTP Error: Could not authenticate.
+Mensagem: 
+            <h3>Olá Alberto Espirito Santo,</h3>
+            <p>Clique no link abaixo para redefinir sua senha. Este link expirará em 1 hora.</p>
+            <p><a href='http://localhost:8000/redefinir?token=c2aa67c667472cf641a82908955dfb47'>http://localhost:8000/redefinir?token=c2aa67c667472cf641a82908955dfb47</a></p>
+        
+
+Erro ao enviar para: carlos9053350@gmail.com
+Erro: SMTP Error: Could not authenticate.
+Mensagem: 
+            <h3>Olá Alberto Espirito Santo,</h3>
+            <p>Clique no link abaixo para redefinir sua senha. Este link expirará em 1 hora.</p>
+            <p><a href='http://localhost:8000/redefinir?token=a28e5e0741d4e69966ecab5d6378e58f'>http://localhost:8000/redefinir?token=a28e5e0741d4e69966ecab5d6378e58f</a></p>
+        
+

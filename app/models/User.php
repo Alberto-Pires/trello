@@ -1,34 +1,65 @@
 <?php
 namespace app\models;
 
-require_once __DIR__ . '/../core/Database.php';
-
 use app\core\Database;
 use PDO;
 
 class User {
-    private $conn;
+    private $pdo;
 
     public function __construct() {
-        // Pega a conexão PDO da classe Database singleton
-        $this->conn = Database::getInstance()->getConnection();
+        $this->pdo = Database::getInstance()->getConnection();
     }
 
-    // Método para buscar usuário por email (exemplo)
-    public function getUserByEmail(string $email) {
-        // Query com placeholder nomeado :email
-        $sql = "SELECT * FROM users WHERE email = :email";
+    public function register($name, $email, $password) {
+        $hashedPassword = password_hash($password, PASSWORD_DEFAULT);
+        $query = "INSERT INTO users (name, email, password) VALUES (:name, :email, :password)";
+        $stmt = $this->pdo->prepare($query);
+        $stmt->execute([
+            ':name' => $name,
+            ':email' => $email,
+            ':password' => $hashedPassword
+        ]);
+    }
 
-        // Prepara a query (query preparada)
-        $stmt = $this->conn->prepare($sql);
-
-        // Liga o valor do parâmetro :email ao valor $email de forma segura
-        $stmt->bindParam(':email', $email, PDO::PARAM_STR);
-
-        // Executa a query preparada
-        $stmt->execute();
-
-        // Retorna o resultado (associativo)
+    public function findByEmail($email) {
+        $query = "SELECT * FROM users WHERE email = :email";
+        $stmt = $this->pdo->prepare($query);
+        $stmt->execute([':email' => $email]);
         return $stmt->fetch(PDO::FETCH_ASSOC);
+    }
+
+    public function login($email, $password) {
+        $user = $this->findByEmail($email);
+        if ($user && password_verify($password, $user['password'])) {
+            return $user;
+        }
+        return false;
+    }
+
+    public function saveResetToken($email, $token, $expires) {
+        $query = "UPDATE users SET reset_token = :token, token_expire = :expires WHERE email = :email";
+        $stmt = $this->pdo->prepare($query);
+        $stmt->execute([
+            ':token' => $token,
+            ':expires' => $expires,
+            ':email' => $email
+        ]);
+    }
+
+    public function findByToken($token) {
+        $query = "SELECT * FROM users WHERE reset_token = :token AND token_expire >= NOW()";
+        $stmt = $this->pdo->prepare($query);
+        $stmt->execute([':token' => $token]);
+        return $stmt->fetch(PDO::FETCH_ASSOC);
+    }
+
+    public function updatePassword($userId, $newPasswordHash) {
+        $query = "UPDATE users SET password = :password, reset_token = NULL, token_expire = NULL WHERE id = :id";
+        $stmt = $this->pdo->prepare($query);
+        $stmt->execute([
+            ':password' => $newPasswordHash,
+            ':id' => $userId
+        ]);
     }
 }

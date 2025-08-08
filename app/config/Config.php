@@ -10,7 +10,7 @@ const CONFIG = [
         'charset'  => 'utf8mb4'
     ],
     'app' => [
-        'base_url' => 'http://localhost/teu-projeto/public/'
+        'base_url' => 'http://localhost/Trello/public/'
     ]
 ];
 ?>
